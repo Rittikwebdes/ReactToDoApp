@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactToDoApp/static/css/main.9fdcb19f.css",
+    "main.js": "/ReactToDoApp/static/js/main.582e7935.js",
+    "static/js/453.ed3810f9.chunk.js": "/ReactToDoApp/static/js/453.ed3810f9.chunk.js",
+    "static/media/notification.svg?s3g3t9": "/ReactToDoApp/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/todolist 1.avif": "/ReactToDoApp/static/media/todolist 1.e02f985be8bda41d2709.avif",
+    "static/media/notification.eot": "/ReactToDoApp/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/ReactToDoApp/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/ReactToDoApp/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/ReactToDoApp/index.html",
+    "main.9fdcb19f.css.map": "/ReactToDoApp/static/css/main.9fdcb19f.css.map",
+    "main.582e7935.js.map": "/ReactToDoApp/static/js/main.582e7935.js.map",
+    "453.ed3810f9.chunk.js.map": "/ReactToDoApp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdcb19f.css",
+    "static/js/main.582e7935.js"
+  ]
+}
